@@ -1,3 +1,4 @@
+## This is the code of paper "Automated Detection of Weld Defects in TOFD Images for Steel Bridges Using Generative Adversarial Networks". 
 ## 1. Training
 ### 1.1. Training script
 To train the model, run the following command:
